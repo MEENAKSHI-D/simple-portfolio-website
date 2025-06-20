@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+    }
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      background-color: peachpuff;
+      }
+.container{
+    padding:20px;
+}      
+
+ .section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+ }
+   
+   
+   
+.section-one__name{
+ font-size: 60px;
+ background-color: black;
+}
+
+.section-one__role{
+    background-color: black;
+    font-size: 25px;
+
+}
+
+.section-one__contact{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: greenyellow;
+    color: black;
+    display: inline-block;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.section-one__contact:hover{
+    background-color: orangered;
+    color: white;
+}
+
+.section-two,.section-three,.section-four,.section-five,.section-six,.section-seven{
+    
+    margin-top:20px;
+    
+}
+.section-two__title{
+    font-size: xx-large;
+    padding: 20px;
+    margin: 5px;
+    
+}
+.section-two__desc{
+    padding: 20px;
+font-size: x-large;
+color: black;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+border: 20px;
+margin: 10px;
+
+
+}
+.section-three{
+    background-color:palevioletred;
+    border: 2px solid white;
+    display: inline-block;
+    width:fit-content ;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin: 20px;
+    height: 200px;
+    border-radius: 20px;
+}
+.section-three__desc{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+padding: 20px;
+color: white;
+}
+.section-four{
+    padding-left: 30px;
+    background-color:cadetblue;
+    display:block;
+    width: 400px;
+}
+.section-four__title{
+    font-size:xx-large;
+    padding-top: 20px;
+}
+.section-four__desc{
+    padding-top: 30px;
+    font-size: 25px;
+padding-left:  20px;
+border-radius:15px;
+height: 300px;
+color: white;
+list-style:circle;
+
+}
+
+.section-five{
+    padding-left: 40px;
+    background-color: whitesmoke;
+    height: 200px;
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 15px;
+    
+    
+}
+.section-five__title{
+    font-size: xx-large;
+    
+}
+.section-five__desc{
+ font-size: x-large;  
+ padding-bottom: 30px;
+ padding-left: 5px;
+ margin-left: 30px;
+ list-style: none;
+ 
+
+}
+.section-six{
+    background-color: black;
+color: white;
+width: 1500px;
+padding: 20px;
+}
+.section-six__title{
+    font-size: x-large;
+}
+.section-six__title a{
+    color: skyblue;
+    font-size: medium;
+}
