@@ -10,4 +10,4 @@ This is my personal portfolio website built using HTML and CSS. It showcases my 
 - Social media links
 
 ## Live Site
-🔗 [View Portfolio](https://meenakshi-d.github.io/my-portfolio/)
+🔗 [link]
